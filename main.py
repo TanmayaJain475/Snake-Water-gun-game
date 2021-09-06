@@ -1,11 +1,6 @@
 
-# SNAKE,WATER,GUN GAME
+## SNAKE,WATER,GUN GAME
  
-# snake will kill water
-# water will kill gun
-# gun will kill snake
- 
-
 import random
 def gameWin(comp, you):
     # if two values are equal declare a tie
